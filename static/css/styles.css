@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    }
+
+
+h1 {
+    text-align: center;
+    color: #66BFBF;
+}
+h3 {
+    text-align : center;
+    }
+
+.buttons{
+    text-align:center}
+
+.main_thing{
+    margin-top:50px;}
+
+.color-container {
+    text-align: center;
+    border-color: red;
+    margin: 0 auto 0 auto;
+    }
